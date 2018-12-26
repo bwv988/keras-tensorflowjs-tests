@@ -4,7 +4,4 @@
 
 This repo contains a short tutorial on how to implement Machine Learning model sharing between between Keras / Python and TensorFlow.js / Javascript.
 
-For this purpose, there are two simple notebooks:
-
-* One compatible with vanilla Jupyter in the `jupyter-notebook/` directory.
-* Another one which can be run on Google Colaboratory in the `colab-notebook/` directory.
+You can either run the notebook locally or launch interactive sessions in Google Collaboratory or Binder using the above buttons.

@@ -4,6 +4,6 @@ channels:
 dependencies:
   - numpy
   - pandas
-  - sklearn
+  - scikit-learn
   - pip:
     - tensorflowjs==0.6.7

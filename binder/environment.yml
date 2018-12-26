@@ -1,6 +1,9 @@
 name: base
 channels:
-  - defaults
+  - conda-forge
 dependencies:
+  - numpy
+  - pandas
+  - sklearn
   - pip:
     - tensorflowjs==0.6.7
